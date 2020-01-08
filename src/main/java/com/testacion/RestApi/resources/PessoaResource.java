@@ -28,7 +28,7 @@ public class PessoaResource {
 
     @GetMapping("/pessoa/{id}")
     @ApiOperation(value = "Retorna uma pessoa específica")
-    public Pessoa listaUmaPessoas(@PathVariable(value="id") long id){
+    public Pessoa listaUmaPessoas(@PathVariable(value="id") long id) {
         return pessoaRepository.findById(id);
     }
 

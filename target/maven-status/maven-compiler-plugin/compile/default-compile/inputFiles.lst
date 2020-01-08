@@ -1,8 +1,11 @@
 /home/az/Documentos/Studio2/workspace/API_Pessoas/src/main/java/com/testacion/RestApi/models/Pessoa.java
+/home/az/Documentos/Studio2/workspace/API_Pessoas/src/main/java/com/testacion/RestApi/resources/ProdutoResource.java
 /home/az/Documentos/Studio2/workspace/API_Pessoas/src/main/java/com/testacion/RestApi/resources/PessoaResource.java
 /home/az/Documentos/Studio2/workspace/API_Pessoas/src/main/java/com/testacion/RestApi/repository/DepartamentoRepository.java
 /home/az/Documentos/Studio2/workspace/API_Pessoas/src/main/java/com/testacion/RestApi/RestApiApplication.java
+/home/az/Documentos/Studio2/workspace/API_Pessoas/src/main/java/com/testacion/RestApi/models/Produto.java
 /home/az/Documentos/Studio2/workspace/API_Pessoas/src/main/java/com/testacion/RestApi/models/Departamento.java
+/home/az/Documentos/Studio2/workspace/API_Pessoas/src/main/java/com/testacion/RestApi/repository/ProdutoRepository.java
 /home/az/Documentos/Studio2/workspace/API_Pessoas/src/main/java/com/testacion/RestApi/ConfigurationCors.java
 /home/az/Documentos/Studio2/workspace/API_Pessoas/src/main/java/com/testacion/RestApi/config/SwaggerConfig.java
 /home/az/Documentos/Studio2/workspace/API_Pessoas/src/main/java/com/testacion/RestApi/repository/PessoaRepository.java
