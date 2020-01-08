@@ -10,7 +10,7 @@ import java.io.Serializable;
 import java.math.BigDecimal;
 
 @Entity
-@Table(name="PESSOA")
+@Table( name = "PESSOA")
 public class Pessoa implements Serializable {
 
     private static final long serialVersionUID = 1L;
@@ -19,7 +19,10 @@ public class Pessoa implements Serializable {
     @GeneratedValue(strategy= GenerationType.AUTO)
     private  long id;
 
+    @NotNull
     private String nome;
+
+    @NotNull
     private  String CPF;
     @NotNull
     private BigDecimal salario;

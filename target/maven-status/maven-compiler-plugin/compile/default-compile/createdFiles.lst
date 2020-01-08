@@ -1,0 +1,13 @@
+com/testacion/RestApi/resources/ProdutoResource.class
+com/testacion/RestApi/resources/PessoaResource.class
+com/testacion/RestApi/repository/DepartamentoRepository.class
+com/testacion/RestApi/models/Produto.class
+com/testacion/RestApi/ConfigurationCors$1.class
+com/testacion/RestApi/models/Pessoa.class
+com/testacion/RestApi/ConfigurationCors.class
+com/testacion/RestApi/models/Departamento.class
+com/testacion/RestApi/repository/ProdutoRepository.class
+com/testacion/RestApi/repository/PessoaRepository.class
+com/testacion/RestApi/RestApiApplication.class
+com/testacion/RestApi/resources/DepartamentoResource.class
+com/testacion/RestApi/config/SwaggerConfig.class
